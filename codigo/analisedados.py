@@ -31,3 +31,10 @@ idade = 27
 genero = "F"
 
 exibir_dados(nome, idade, genero)
+
+idades = [20, 25, 27, 31, 40]
+
+print("Lista de idades:")
+
+for idade in idades:
+    print(idade)
